@@ -1,6 +1,6 @@
 package gitproject;
 
-public class usermoduleTest {
+public class usermodule {
 
 
 }
